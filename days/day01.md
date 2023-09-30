@@ -1,6 +1,8 @@
 #day1
 - Started with Intro to Devops 
 - Intro to compute and stoage
+- created Sample app to upload iamge to S3 bucket programitically
+
 
 
 

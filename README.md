@@ -10,3 +10,4 @@ Puspose of taking the challenge:
 2. Prepare for cloud certifications
 3. build projects on devops
 4. Make your devops portfolio
+5. Becode a better developer day by day
