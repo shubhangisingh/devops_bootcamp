@@ -4,7 +4,7 @@
 - created Sample Rails app to upload iamge to S3 bucket programitically  (https://github.com/shubhangisingh/demo_s3_fileupload)
 
 Knowledge Gained
- - How to creat an IAM user
+ - How to create an IAM user
  - adding permissions to policy
  - creating S3 bucket
 
