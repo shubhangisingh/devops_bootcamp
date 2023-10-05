@@ -1,5 +1,6 @@
 #day2
 - Understood about Placement strategies in ECS
+- understanding CORS configuration
 
 
 
