@@ -1,2 +1,3 @@
-#day5
+#Day05
 - Understanding CloudFormation
+- undestanding serverless

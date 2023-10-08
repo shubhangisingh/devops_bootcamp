@@ -1,3 +1,5 @@
 #Day03
 
-- understanding CORS configuration for s3
+- understanding EC2 fundamentals
+- undestanding ELB and ASG
+
