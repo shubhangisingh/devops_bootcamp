@@ -10,7 +10,7 @@ Puspose of taking the challenge:
 2. Prepare for cloud certification
 3. build projects on devops
 4. Make your devops portfolio
-5. Becode a better developer day by day
+5. Become a better developer day by day
 
 Note: i have been preping for AWS Developer Associate from last 3 months and had scheduled my exam for Day15 of this 90 day challenge which i cleared :)
 Thanks to initial 15 days of revising the basics
